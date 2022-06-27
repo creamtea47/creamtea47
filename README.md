@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with build projects
 - 💬 Ask me about Front-end,Back-end and Android
 - 📫 How to reach me: QQ,WeChat
-- 😄 Pronouns: xiaolu
+<!-- - 😄 Pronouns: xiaolu -->
 <!-- - ⚡ Fun fact: ... -->
