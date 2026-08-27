@@ -13,3 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: QQ,WeChat
 <!-- - 😄 Pronouns: xiaolu -->
 <!-- - ⚡ Fun fact: ... -->
+
+## My contribution graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/creamtea47/creamtea47/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/creamtea47/creamtea47/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/creamtea47/creamtea47/output/github-contribution-grid-snake.svg">
+</picture>
